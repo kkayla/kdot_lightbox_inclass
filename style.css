@@ -1,0 +1,9 @@
+.complete {
+	background-color:#feff4d;
+}
+.looking {
+	color: gray;
+}
+.notlooking {
+	color:#b3ff66;
+}
